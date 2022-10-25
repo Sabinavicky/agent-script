@@ -1,5 +1,4 @@
 #!/bin/bash
-
 ## Author: sabina
 ##Date: oct 2022
 
