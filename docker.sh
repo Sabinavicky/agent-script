@@ -1,6 +1,6 @@
 #!/bin/bash
 
-## Author: Emmanuel
+## Author: sabina
 ##Date: oct 2022
 
 yum update -y
